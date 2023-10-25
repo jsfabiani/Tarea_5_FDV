@@ -16,3 +16,5 @@ animator.SetBool("isWalking", true);
 - Agregar un sprite zombie, con un collider2D, y crear un script, en el que el zombie, al colisionar con él cambie la animación a Dead.
 
 - Crear las animaciones de Goblin. Añadir un script al zombie, para que al colisionar con Goblin, Goblin active la animación de atacar.
+
+![](https://github.com/jsfabiani/Tarea_5_FDV/blob/main/FDV_Tarea_5.gif)
